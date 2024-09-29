@@ -10,6 +10,18 @@
 
 **Team Number:** 35
 
+## Demo Video Explaination Link
+- [[Video Explanation link](https://drive.google.com/drive/folders/1J-xDKvvvST1K3ZTIPQPO5AQaOGWE2Omz?usp=sharing)]
+
+
+## Demo PPT Link
+- [https://drive.google.com/drive/folders/19ZRoT-dNF0wXhidPdKhMiLx5qavtg1Ug?usp=sharing]
+
+
+---
+
+## Deployment Links
+- Links will be uploaded soon.
 
 
 
