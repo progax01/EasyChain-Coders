@@ -1,0 +1,32 @@
+{
+  "name": "partisia-liquidity-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon --exec ts-node src/server.ts",
+    "start": "node build/src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@partisiablockchain/abi-client": "^4.189.0",
+    "axios": "^1.7.2",
+    "big.js": "^6.2.1",
+    "bn.js": "^5.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  }
+}
