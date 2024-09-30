@@ -152,17 +152,9 @@ Bridge assets across EVM and non-EVM chains using AI:
 
 
 
-## Contributions
-
-
-
-Contributions are welcome! Feel free to submit issues, raise pull requests, or offer suggestions to improve the project.
-
-
-
 ## License
 
 
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed. Do not use or share for commercial usage.
 
