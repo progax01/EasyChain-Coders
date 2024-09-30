@@ -10,6 +10,22 @@
 
 **Team Number:** 35
 
+
+## Deployed Contract Address Link
+
+## NEO X chian
+- Bridge Address - 0xE844478Acb6b7714ac1ffb08aFC3E9D13a1E8fB7
+- Router Address - 0x27e11cd7831963101452dbd0f41c1d011f2fa122
+- Pool Address - 0x97bd50F8536ea5be0B82493FA60A4983B497d957
+- Cross Chain Token Launch - 0x6cCfEe33866b840d8C67164D59DC28455AbAc10D
+- Token: Bitcoin, symbol: BTC address: 0x273e4b4be0916f66816fab7bc2a2601e378fda9c
+- Token: Ethereum, symbol: ETH address: 0x8a7813c4bdeec6158462603af9c5dff1f68e5fb0
+- Token: Tether, symbol: USDT address: 0xb4e2cb231e0f4af05a60f4b0586d0460c8df5485
+- Token: Binance, symbol: BNB address: 0xc155c82bd1a10e5bc4905e3edc945305ca490896
+- Token: USD Coin, symbol: USDC address: 0x96fa93a85013b01cfe3ebd6a3ba55ffa13e4c9dc
+- Token: Solana, symbol: SOL address: 0x283c0f7e5cee80a5cf69778add0d2ad33cb295f9
+
+
 ## Demo Video Explaination Link
 - [[Video Explanation link](https://drive.google.com/drive/folders/1J-xDKvvvST1K3ZTIPQPO5AQaOGWE2Omz?usp=sharing)]
 
