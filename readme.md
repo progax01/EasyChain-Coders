@@ -28,7 +28,17 @@
 - [[NON-EVM bridge address -](https://stellar.expert/explorer/testnet/contract/CA6UHQAJTSR24TCV6OBXAPFNDNT56HSJRIRBENDLXGW3TEWZQ37O52WR)]
 
 ## Arbitrum Contracts
--
+
+- [[Bridge Address -](https://sepolia.arbiscan.io/address/0x27E11cd7831963101452dbd0f41c1D011F2Fa122)]
+- [[ROuter Address - ](https://sepolia.arbiscan.io/address/0xf40FC41d326Af8D45E58C36B1c79b29106CfDBCa)]
+- [[Pool Address - ](https://sepolia.arbiscan.io/address/0x01774BfB8a716A2209988A868c8eD300e6fAC176)]
+- [[Cross Chain Token Launch Address - ](https://sepolia.arbiscan.io/address/0xDbDb231b13D100D60a7616c3c5776d7A7de772f6)]
+- [[Token: Bitcoin, symbol: BTC address:](https://xt4scan.ngd.network/address/0x273e4b4be0916f66816fab7bc2a2601e378fda9c)]
+- [[Token: Ethereum, symbol: ETH address:](https://xt4scan.ngd.network/address/0x8a7813c4bdeec6158462603af9c5dff1f68e5fb0)]
+- [[Token: Tether, symbol: USDT address: ](https://xt4scan.ngd.network/address/0xb4e2cb231e0f4af05a60f4b0586d0460c8df5485)]
+- [[Token: Binance, symbol: BNB address: ](https://xt4scan.ngd.network/address/0xc155c82bd1a10e5bc4905e3edc945305ca490896)]
+
+  
 ## Demo Video Explaination Link
 - [[Video Explanation link](https://drive.google.com/drive/folders/1J-xDKvvvST1K3ZTIPQPO5AQaOGWE2Omz?usp=sharing)]
 
