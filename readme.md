@@ -29,7 +29,7 @@
 
 ## Arbitrum Contracts
 
-- [[Bridge Address -](https://sepolia.arbiscan.io/address/0x27E11cd7831963101452dbd0f41c1D011F2Fa122)]
+- [[Bridge Address -](https://sepolia.arbiscan.io/address/0x0A063b3AD7044a122c4C0b31A5BcB07e9D8498be)]
 - [[ROuter Address - ](https://sepolia.arbiscan.io/address/0xf40FC41d326Af8D45E58C36B1c79b29106CfDBCa)]
 - [[Pool Address - ](https://sepolia.arbiscan.io/address/0x01774BfB8a716A2209988A868c8eD300e6fAC176)]
 - [[Cross Chain Token Launch Address - ](https://sepolia.arbiscan.io/address/0xDbDb231b13D100D60a7616c3c5776d7A7de772f6)]
